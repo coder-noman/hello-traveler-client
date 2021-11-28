@@ -1,0 +1,32 @@
+[
+    {
+      "name": "LEH-LADAKH",
+      "price": 8000,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/May/2f28807b3b26399c5cf3d6f20d7f27dc.jpg"
+    },
+    {
+      "name": "UDAIPUR",
+      "price": 6999,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/May/4d13579399c4ee08b1c971ddb327a8bb.jpg"
+    },
+    {
+      "name": "HYDERABAD",
+      "price": 11999,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/May/fa36b1c76bc4519f3131b27ac3b04b1c.jpg"
+    },
+    {
+      "name": "GOA",
+      "price": 17000,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/Nov/4b7c595a51c7668e9a39981858b298ae.jpg"
+    },
+    {
+      "name": "JAIPUR",
+      "price": 9999,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/Nov/a686802df388f77a25b3b44021fd41dd.jpg"
+    },
+    {
+      "name": "UDAIPUR",
+      "price": 19000,
+      "img": "https://www.travelguru.com/ythomepagecms/media/trending_destinations/2017/Nov/6a133856f60a72e26c968e8f3812af6f.jpg"
+    }
+  ]
